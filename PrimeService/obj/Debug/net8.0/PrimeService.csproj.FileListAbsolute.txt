@@ -1,0 +1,11 @@
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
