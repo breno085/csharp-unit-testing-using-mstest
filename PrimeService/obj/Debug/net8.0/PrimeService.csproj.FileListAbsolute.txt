@@ -9,3 +9,4 @@
 /home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
 /home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.pdb
 /home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
+/home/brenoacioli/Documents/unit-testing-using-mstest/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json

@@ -1,4 +1,4 @@
-﻿namespace PrimeServices;
+﻿namespace Prime;
 
 public class PrimeService
 {
